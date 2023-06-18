@@ -1,0 +1,39 @@
+.okia {
+  border: 2px solid black;
+  border-radius: 32px;
+  
+  width: 16%;
+  padding: 20px;
+  margin-left: 100px;
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+
+input[type="button"] {
+  background-color: blue;
+  border: none;
+  color: white;
+  height: 70px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+input[type="text"] {
+  font-size: 16px;
+  padding: 15px;
+  border: none;
+  color: black;
+  background-color: white;
+  width: 90%;
+  margin: 4px 2px;
+  border: 2px solid white;
+}
